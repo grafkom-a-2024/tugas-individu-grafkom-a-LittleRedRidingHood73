@@ -1,7 +1,7 @@
 **Penjelasan Singkat**  
 Pada Tugas 3 Kali ini saya melakukan implementasi dari pelajaran Persepektif, Camera, Lighting, Animasi, Texture, dan Geometry.
 
-**Animated Cube With Specular Lighting**  
+**Animated (Y-axis rotation) Cube With Specular Lighting**  
 Pada implementasi ini saya menerapkan **Perspective, Camera, Animasi, dan juga Lighting (Lebih tepatnya Specular Lighting)** pada suatu objek geometri 3D berupa cube. Cube ini dapat memantulkan cahaya dan juga memiliki animasi berupa rotasi pada sumbu-Y yang bergerak secara otomatis.
 ![animatedCubeWithSpecularLight](https://github.com/user-attachments/assets/c1faabd8-7145-4531-a93d-06ebc9dfeeaf)
 
