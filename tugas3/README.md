@@ -6,7 +6,7 @@ Pada implementasi ini saya menerapkan **Perspective, Camera, Animasi, dan juga L
 ![animatedCubeWithSpecularLight](https://github.com/user-attachments/assets/c1faabd8-7145-4531-a93d-06ebc9dfeeaf)
 
 **Animated (XYZ-axis rotation) Cube dengan Textures**  
-Pada implementasi ini saya menerapkan **Perspective, Camera, Animasi, dan juga Textures** pada suatu objek geometri 3D berupa cube. Cube ini dapat menampilkan texture berupa gambar logo ITS dan juga memiliki animasi berupa rotasi pada sumbu X,Y, dan Z yang bergerak secara otomatis.
+Pada implementasi ini saya menerapkan **Perspective, Camera, Animasi, dan juga Textures** pada suatu objek geometri 3D berupa cube. Cube ini dapat menampilkan texture berupa gambar logo ITS dan juga memiliki animasi berupa rotasi pada sumbu X,Y, dan Z yang bergerak secara otomatis.  
 ![animatedCubeWithTextures](https://github.com/user-attachments/assets/9fd012a4-cae8-4a29-aa80-ee6efd8a6a33)
 
 **Cylinder - Lathe**  
