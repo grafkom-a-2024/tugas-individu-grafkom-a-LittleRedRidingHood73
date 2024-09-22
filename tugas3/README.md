@@ -22,3 +22,5 @@ Pada impelemntasi ini saya menerapkan **Perspective, Camera, dan juga Geometry (
 ![lightbulb](https://github.com/user-attachments/assets/71fd1d4d-e146-4cb6-93a5-857e069c49d8)
 
 *Note: Edit pada SVG dilakukan menggunakan tool online SVGPathEditor (https://yqnn.github.io/svg-path-editor/)*
+![SVGPathEditor](https://github.com/user-attachments/assets/0eabf99f-6a04-4139-83f1-71864caa16d8)
+
